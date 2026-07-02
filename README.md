@@ -105,34 +105,6 @@ class Megavarshini {
 
 ---
 
-<!-- ================= STATS + TOP LANGUAGES ================= -->
-<table align="center" width="92%" border="3" bordercolor="#FF69B4" bgcolor="#2B1520" cellpadding="15">
-<tr><td bgcolor="#2B1520">
-
-<div align="center">
-  <a href="https://github.com/megavarshini2004">
-    <img src="https://github-readme-stats.vercel.app/api?username=megavarshini2004&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=2B1520&title_color=FF69B4&icon_color=FFB6C1&text_color=FFE4EC&border_radius=15" height="165"/>
-  </a>
-  <a href="https://github.com/megavarshini2004">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megavarshini2004&layout=compact&hide_border=true&bg_color=2B1520&title_color=FF69B4&text_color=FFE4EC&langs_count=8&border_radius=15" height="165"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=megavarshini2004&hide_border=true&background=2B1520&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=FFB6C1&dates=FFC9DE&currStreakNum=FFE4EC&sideNums=FFE4EC&stroke=2B1520&border_radius=15"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=megavarshini2004&bg_color=2B1520&color=FF69B4&line=FF1493&point=FFE4EC&area=true&hide_border=true" width="95%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=megavarshini2004&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
-
-</td></tr>
-</table>
-
 ---
 
 <!-- ================= WORK EXPERIENCE ================= -->
