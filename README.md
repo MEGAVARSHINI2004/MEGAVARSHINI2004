@@ -6,7 +6,7 @@
 <!-- ================= TYPING HEADER ================= -->
 <p align="center">
   <a href="https://github.com/megavarshini2004">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Megavarshini+%F0%9F%91%8B;Associate+Software+Engineer;Building+scalable+web+apps+with+Spring+Boot;Always+learning%2C+always+debugging+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Megavarshini+%F0%9F%91%8B;Java+Full+Stack+Developer;Building+scalable+web+apps+with+Spring+Boot+%26+React;Always+learning%2C+always+debugging+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -106,6 +106,11 @@ class Megavarshini {
 <!-- ================= STREAK STATS ================= -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=megavarshini2004&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+</div>
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=megavarshini2004&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
 </div>
 
 <!-- ================= TROPHY WALL ================= -->
