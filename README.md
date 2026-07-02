@@ -20,8 +20,8 @@
 ---
 
 <!-- ================= CODE-BLOCK ABOUT ME ================= -->
-<table align="center" width="92%" border="3" bordercolor="#FF69B4" cellpadding="15">
-<tr><td>
+<table align="center" width="92%" border="3" bordercolor="#FF69B4" bgcolor="#2B1520" cellpadding="15">
+<tr><td bgcolor="#2B1520">
 
 ```java
 class Megavarshini {
@@ -57,8 +57,8 @@ class Megavarshini {
 ---
 
 <!-- ================= TECH BADGES ================= -->
-<table align="center" width="92%" border="3" bordercolor="#FF69B4" cellpadding="15">
-<tr><td>
+<table align="center" width="92%" border="3" bordercolor="#FF69B4" bgcolor="#2B1520" cellpadding="15">
+<tr><td bgcolor="#2B1520">
 
 <h3 align="center"><font color="#FF1493">🩷 Tech Stack</font></h3>
 
@@ -106,8 +106,8 @@ class Megavarshini {
 ---
 
 <!-- ================= STATS + TOP LANGUAGES ================= -->
-<table align="center" width="92%" border="3" bordercolor="#FF69B4" cellpadding="15">
-<tr><td>
+<table align="center" width="92%" border="3" bordercolor="#FF69B4" bgcolor="#2B1520" cellpadding="15">
+<tr><td bgcolor="#2B1520">
 
 <div align="center">
   <a href="https://github.com/megavarshini2004">
@@ -136,8 +136,8 @@ class Megavarshini {
 ---
 
 <!-- ================= WORK EXPERIENCE ================= -->
-<table align="center" width="92%" border="3" bordercolor="#FF69B4" cellpadding="15">
-<tr><td>
+<table align="center" width="92%" border="3" bordercolor="#FF69B4" bgcolor="#2B1520" cellpadding="15">
+<tr><td bgcolor="#2B1520">
 
 <h3 align="center"><font color="#FF1493">🌸 Work Experience</font></h3>
 
@@ -192,8 +192,8 @@ class Megavarshini {
 ---
 
 <!-- ================= FEATURED PROJECTS ================= -->
-<table align="center" width="92%" border="3" bordercolor="#FF69B4" cellpadding="15">
-<tr><td>
+<table align="center" width="92%" border="3" bordercolor="#FF69B4" bgcolor="#2B1520" cellpadding="15">
+<tr><td bgcolor="#2B1520">
 
 <h3 align="center"><font color="#FF1493">💗 Featured Projects</font></h3>
 
@@ -215,8 +215,8 @@ class Megavarshini {
 ---
 
 <!-- ================= ACHIEVEMENTS ================= -->
-<table align="center" width="92%" border="3" bordercolor="#FF69B4" cellpadding="15">
-<tr><td>
+<table align="center" width="92%" border="3" bordercolor="#FF69B4" bgcolor="#2B1520" cellpadding="15">
+<tr><td bgcolor="#2B1520">
 
 <h3 align="center"><font color="#FF1493">🎀 Achievements & Certifications</font></h3>
 
@@ -236,8 +236,8 @@ class Megavarshini {
 ---
 
 <!-- ================= CURRENTLY LEARNING ================= -->
-<table align="center" width="92%" border="3" bordercolor="#FF69B4" cellpadding="15">
-<tr><td>
+<table align="center" width="92%" border="3" bordercolor="#FF69B4" bgcolor="#2B1520" cellpadding="15">
+<tr><td bgcolor="#2B1520">
 
 <h3 align="center"><font color="#FF1493">🎀 Currently Learning</font></h3>
 
