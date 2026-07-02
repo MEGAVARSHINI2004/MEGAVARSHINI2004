@@ -20,6 +20,9 @@
 ---
 
 <!-- ================= CODE-BLOCK ABOUT ME ================= -->
+<table align="center" width="92%" border="3" bordercolor="#FF69B4" cellpadding="15">
+<tr><td>
+
 ```java
 class Megavarshini {
     private String name = "Megavarshini A";
@@ -48,12 +51,18 @@ class Megavarshini {
 }
 ```
 
+</td></tr>
+</table>
+
 ---
 
 <!-- ================= TECH BADGES ================= -->
-<h3 align="center">🩷 Tech Stack</h3>
+<table align="center" width="92%" border="3" bordercolor="#FF69B4" cellpadding="15">
+<tr><td>
 
-<p align="center"><b>Languages</b></p>
+<h3 align="center"><font color="#FF1493">🩷 Tech Stack</font></h3>
+
+<p align="center"><font color="#FF1493"><b>Languages</b></font></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -62,7 +71,7 @@ class Megavarshini {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </p>
 
-<p align="center"><b>Frameworks</b></p>
+<p align="center"><font color="#FF1493"><b>Frameworks</b></font></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
@@ -71,132 +80,177 @@ class Megavarshini {
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 </p>
 
-<p align="center"><b>Cloud & DevOps</b></p>
+<p align="center"><font color="#FF1493"><b>Cloud & DevOps</b></font></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
-<p align="center"><b>Databases</b></p>
+<p align="center"><font color="#FF1493"><b>Databases</b></font></p>
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 </p>
 
-<p align="center"><b>Tools</b></p>
+<p align="center"><font color="#FF1493"><b>Tools</b></font></p>
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/FlutterFlow-2F6FEB?style=flat&logo=flutter&logoColor=white"/>
 </p>
 
+</td></tr>
+</table>
+
 ---
 
-<!-- ================= STREAK STATS ================= -->
+<!-- ================= STATS + TOP LANGUAGES ================= -->
+<table align="center" width="92%" border="3" bordercolor="#FF69B4" cellpadding="15">
+<tr><td>
+
+<div align="center">
+  <a href="https://github.com/megavarshini2004">
+    <img src="https://github-readme-stats.vercel.app/api?username=megavarshini2004&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=2B1520&title_color=FF69B4&icon_color=FFB6C1&text_color=FFE4EC&border_radius=15" height="165"/>
+  </a>
+  <a href="https://github.com/megavarshini2004">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megavarshini2004&layout=compact&hide_border=true&bg_color=2B1520&title_color=FF69B4&text_color=FFE4EC&langs_count=8&border_radius=15" height="165"/>
+  </a>
+</div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=megavarshini2004&hide_border=true&background=2B1520&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=FFB6C1&dates=FFC9DE&currStreakNum=FFE4EC&sideNums=FFE4EC&stroke=2B1520&border_radius=15"/>
 </div>
 
-<!-- ================= ACTIVITY GRAPH ================= -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=megavarshini2004&bg_color=2B1520&color=FF69B4&line=FF1493&point=FFE4EC&area=true&hide_border=true" width="95%"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=megavarshini2004&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+</div>
+
+</td></tr>
+</table>
+
+---
 
 <!-- ================= WORK EXPERIENCE ================= -->
-<h3 align="center">🌸 Work Experience</h3>
+<table align="center" width="92%" border="3" bordercolor="#FF69B4" cellpadding="15">
+<tr><td>
+
+<h3 align="center"><font color="#FF1493">🌸 Work Experience</font></h3>
 
 <details>
-<summary><b>Wipro – TalentNext | Java Full Stack Development Intern</b> — July 2025 – Oct 2025</summary>
+<summary><font color="#FF1493"><b>Wipro – TalentNext | Java Full Stack Development Intern</b></font> — July 2025 – Oct 2025</summary>
 <br>
 
 > `Java` `Spring Boot` `HTML` `CSS` `JavaScript` `SQL` `REST APIs` `Agile/SDLC`
+
+<font color="#FF1493">
 
 - Completed end-to-end Java Full Stack training covering Java, Spring Boot, HTML, CSS, JavaScript, SQL, and REST API development following SDLC and Agile practices.
 - Developed and tested full-stack applications while implementing debugging, software testing, and database integration concepts.
 - Successfully cleared **4 technical assessments**, demonstrating proficiency in software development, problem-solving, and application deployment.
 
+</font>
 </details>
 
 <details>
-<summary><b>VaultofCodes (AICTE) | Java Developer Intern</b> — Aug 2025 – Sept 2025</summary>
+<summary><font color="#FF1493"><b>VaultofCodes (AICTE) | Java Developer Intern</b></font> — Aug 2025 – Sept 2025</summary>
 <br>
 
 > `Java` `OOP` `Debugging` `Test Validation`
+
+<font color="#FF1493">
 
 - Developed Java applications using Object-Oriented Programming principles and implemented efficient coding practices.
 - Built a **Text Encoder/Decoder** application with encryption logic, debugging, and automated test validation.
 - Improved code quality through troubleshooting, testing, and documentation of application features.
 
+</font>
 </details>
 
 <details>
-<summary><b>VaultofCodes | Python Developer Intern</b> — Nov 2024 – Dec 2024</summary>
+<summary><font color="#FF1493"><b>VaultofCodes | Python Developer Intern</b></font> — Nov 2024 – Dec 2024</summary>
 <br>
 
 > `Python` `String Manipulation` `Modular Programming` `Unit Testing`
+
+<font color="#FF1493">
 
 - Developed Python-based applications focusing on problem-solving, debugging, and reusable code development.
 - Designed and implemented a **Secret Code Generator** using string manipulation and modular programming concepts.
 - Performed unit testing, bug fixing, and technical documentation to ensure application reliability.
 
+</font>
 </details>
+
+</td></tr>
+</table>
 
 ---
 
 <!-- ================= FEATURED PROJECTS ================= -->
-<h3 align="center">💗 Featured Projects</h3>
+<table align="center" width="92%" border="3" bordercolor="#FF69B4" cellpadding="15">
+<tr><td>
 
-<div align="center">
+<h3 align="center"><font color="#FF1493">💗 Featured Projects</font></h3>
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **[Skin Cancer Diagnosis System](https://github.com/MEGAVARSHINI2004/Medinsights_app)** | TensorFlow · CNN · Flask · Python · HTML/CSS | Image-based skin disease prediction web app; integrated REST APIs for real-time classification & result visualization; responsive UI with client-side validation |
-| **[Personalized Travel Itinerary Recommender](https://github.com/MEGAVARSHINI2004/AI_Travel_Planner-AICTE)** | Python · Flask · HTML · CSS · JS · APIs · Prompt Engineering | Integrated third-party APIs for dynamic, personalized itinerary generation; asynchronous data handling with validation & testing; built following Agile practices |
+<font color="#FF1493">
 
-</div>
+- **[Skin Cancer Diagnosis System](https://github.com/MEGAVARSHINI2004/Medinsights_app)**
+  *TensorFlow · CNN · Flask · Python · HTML/CSS*
+  Image-based skin disease prediction web app; integrated REST APIs for real-time classification & result visualization; responsive UI with client-side validation.
+
+- **[Personalized Travel Itinerary Recommender](https://github.com/MEGAVARSHINI2004/AI_Travel_Planner-AICTE)**
+  *Python · Flask · HTML · CSS · JS · APIs · Prompt Engineering*
+  Integrated third-party APIs for dynamic, personalized itinerary generation; asynchronous data handling with validation & testing; built following Agile practices.
+
+</font>
+
+</td></tr>
+</table>
 
 ---
 
 <!-- ================= ACHIEVEMENTS ================= -->
-<h3 align="center">🎀 Achievements & Certifications</h3>
+<table align="center" width="92%" border="3" bordercolor="#FF69B4" cellpadding="15">
+<tr><td>
 
-<div align="center">
+<h3 align="center"><font color="#FF1493">🎀 Achievements & Certifications</font></h3>
 
-| 🎖️ | Achievement | Details |
-|---|---|---|
-| 📜 | Software Engineering, Agile (SCRUM), DBMS, Java & DSA | Infosys Springboard |
-| ☁️ | Microsoft Azure AI Certification | Microsoft |
-| 💻 | Digital Application Fundamentals – STEM | NASSCOM |
-| 🧪 | Software Testing | NPTEL |
-| 🎓 | Academic Excellence | CGPA **9.34 / 10** |
+<font color="#FF1493">
 
-</div>
+- 📜 Software Engineering, Agile (SCRUM), DBMS, Java & DSA — *Infosys Springboard*
+- ☁️ Microsoft Azure AI Certification — *Microsoft*
+- 💻 Digital Application Fundamentals – STEM — *NASSCOM*
+- 🧪 Software Testing — *NPTEL*
+- 🎓 Academic Excellence — CGPA **9.34 / 10**
+
+</font>
+
+</td></tr>
+</table>
 
 ---
 
-<!-- ================= EDUCATION ================= -->
-<h3 align="center">🌷 Education</h3>
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.E. Computer Science & Engineering | SNS College of Technology | 2022 – 2026 | CGPA: 9.34 / 10 |
-| HSC | Vijayalakshmi Matric Hr Sec School | 2022 | 91% |
-| SSLC | Vijayalakshmi Matric Hr Sec School | 2020 | 78% |
-
-</div>
-
 <!-- ================= CURRENTLY LEARNING ================= -->
-<h3 align="center">🎀 Currently Learning</h3>
+<table align="center" width="92%" border="3" bordercolor="#FF69B4" cellpadding="15">
+<tr><td>
 
-```text
-🧱 Spring Boot          → Microservices, Security, Cloud Integration
-☁️  Cloud Platforms      → Microsoft Azure Deployment & Services
+<h3 align="center"><font color="#FF1493">🎀 Currently Learning</font></h3>
+
+<font color="#FF1493">
+
+🧱 Spring Boot → Microservices, Security, Cloud Integration
+☁️ Cloud Platforms → Microsoft Azure Deployment & Services
 🧠 Data Structures & Algorithms → System Design Fundamentals
-```
+
+</font>
+
+</td></tr>
+</table>
 
 <!-- ================= FOOTER WAVE ================= -->
 <p align="center">
