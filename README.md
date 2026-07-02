@@ -51,7 +51,7 @@ class Megavarshini {
 ---
 
 <!-- ================= TECH BADGES ================= -->
-<h3 align="center">🛠️ Tech Stack</h3>
+h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
 
@@ -59,49 +59,50 @@ class Megavarshini {
 <tr>
 <td align="center" valign="top" width="20%"><b>Languages</b></td>
 <td align="center" valign="top" width="80%">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top"><b>Frameworks</b></td>
 <td align="center" valign="top">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top"><b>Cloud & DevOps</b></td>
 <td align="center" valign="top">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top"><b>Databases</b></td>
 <td align="center" valign="top">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top"><b>Tools</b></td>
 <td align="center" valign="top">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FlutterFlow-2F6FEB?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FlutterFlow-2F6FEB?style=flat&logo=flutter&logoColor=white"/>
 </td>
 </tr>
 </table>
 
 </div>
+
 
 <!-- ================= STATS + TOP LANGUAGES ================= -->
 <div align="center">
