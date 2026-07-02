@@ -193,18 +193,6 @@ class Megavarshini {
 
 ---
 
-<!-- ================= EDUCATION ================= -->
-<h3 align="center">🎓 Education</h3>
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.E. Computer Science & Engineering | SNS College of Technology | 2022 – 2026 | CGPA: 9.34 / 10 |
-| HSC | Vijayalakshmi Matric Hr Sec School | 2022 | 91% |
-| SSLC | Vijayalakshmi Matric Hr Sec School | 2020 | 78% |
-
-</div>
 
 <!-- ================= CURRENTLY LEARNING ================= -->
 <h3 align="center">📚 Currently Learning</h3>
