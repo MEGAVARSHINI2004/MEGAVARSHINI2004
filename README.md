@@ -1,20 +1,20 @@
 <!-- ================= HERO BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Megavarshini%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Associate%20Software%20Engineer%20%7C%20Java%20Full%20Stack%20Developer&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1E3,100:FF77B7&height=180&section=header&text=Megavarshini%20A%20%F0%9F%8E%80&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Associate%20Software%20Engineer%20%7C%20Java%20Full%20Stack%20Developer%20%F0%9F%8C%B8&descAlignY=62&descSize=16" width="100%"/>
 </p>
 
 <!-- ================= TYPING HEADER ================= -->
 <p align="center">
   <a href="https://github.com/megavarshini2004">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Megavarshini+%F0%9F%91%8B;Java+Full+Stack+Developer;Building+scalable+web+apps+with+Spring+Boot+%26+React;Always+learning%2C+always+debugging+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Hii+there%2C+I'm+Megavarshini+%F0%9F%8E%80;Associate+Software+Engineer;Building+scalable+web+apps+with+Spring+Boot;Always+learning%2C+always+debugging+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=megavarshini2004&label=Profile%20Views&color=70a5fd&style=flat" alt="profile views"/>
-  <a href="https://www.linkedin.com/in/a-megavarshini/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:megavarshini3012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://megavarshini2004.github.io/Megavarshini_portfolio/"><img src="https://img.shields.io/badge/Portfolio-6C11FF?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=megavarshini2004&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views"/>
+  <a href="https://www.linkedin.com/in/a-megavarshini/"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:megavarshini3012@gmail.com"><img src="https://img.shields.io/badge/Email-FF85A2?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://megavarshini2004.github.io/Megavarshini_portfolio/"><img src="https://img.shields.io/badge/Portfolio-FFB6C1?style=flat&logo=googlechrome&logoColor=black"/></a>
 </p>
 
 ---
@@ -51,7 +51,7 @@ class Megavarshini {
 ---
 
 <!-- ================= TECH BADGES ================= -->
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">🩷 Tech Stack</h3>
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
@@ -93,26 +93,35 @@ class Megavarshini {
 
 ---
 
+<!-- ================= STATS + TOP LANGUAGES ================= -->
+<div align="center">
+  <a href="https://github.com/megavarshini2004">
+    <img src="https://github-readme-stats.vercel.app/api?username=megavarshini2004&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=2B1520&title_color=FF69B4&icon_color=FFB6C1&text_color=FFE4EC&border_radius=15" height="165"/>
+  </a>
+  <a href="https://github.com/megavarshini2004">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megavarshini2004&layout=compact&hide_border=true&bg_color=2B1520&title_color=FF69B4&text_color=FFE4EC&langs_count=8&border_radius=15" height="165"/>
+  </a>
+</div>
 
 <!-- ================= STREAK STATS ================= -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=megavarshini2004&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=megavarshini2004&hide_border=true&background=2B1520&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=FFB6C1&dates=FFC9DE&currStreakNum=FFE4EC&sideNums=FFE4EC&stroke=2B1520&border_radius=15"/>
 </div>
 
 <!-- ================= ACTIVITY GRAPH ================= -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=megavarshini2004&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=megavarshini2004&bg_color=2B1520&color=FF69B4&line=FF1493&point=FFE4EC&area=true&hide_border=true" width="95%"/>
 </div>
 
 <!-- ================= TROPHY WALL ================= -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=megavarshini2004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=megavarshini2004&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
 
 <!-- ================= WORK EXPERIENCE ================= -->
-<h3 align="center">💼 Work Experience</h3>
+<h3 align="center">🌸 Work Experience</h3>
 
 <details>
 <summary><b>Wipro – TalentNext | Java Full Stack Development Intern</b> — July 2025 – Oct 2025</summary>
@@ -153,7 +162,7 @@ class Megavarshini {
 ---
 
 <!-- ================= FEATURED PROJECTS ================= -->
-<h3 align="center">🚀 Featured Projects</h3>
+<h3 align="center">💗 Featured Projects</h3>
 
 <div align="center">
 
@@ -167,7 +176,7 @@ class Megavarshini {
 ---
 
 <!-- ================= ACHIEVEMENTS ================= -->
-<h3 align="center">🏆 Achievements & Certifications</h3>
+<h3 align="center">🎀 Achievements & Certifications</h3>
 
 <div align="center">
 
@@ -183,9 +192,21 @@ class Megavarshini {
 
 ---
 
+<!-- ================= EDUCATION ================= -->
+<h3 align="center">🌷 Education</h3>
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.E. Computer Science & Engineering | SNS College of Technology | 2022 – 2026 | CGPA: 9.34 / 10 |
+| HSC | Vijayalakshmi Matric Hr Sec School | 2022 | 91% |
+| SSLC | Vijayalakshmi Matric Hr Sec School | 2020 | 78% |
+
+</div>
 
 <!-- ================= CURRENTLY LEARNING ================= -->
-<h3 align="center">📚 Currently Learning</h3>
+<h3 align="center">🎀 Currently Learning</h3>
 
 ```text
 🧱 Spring Boot          → Microservices, Security, Cloud Integration
@@ -195,5 +216,5 @@ class Megavarshini {
 
 <!-- ================= FOOTER WAVE ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF77B7,100:FFC1E3&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
